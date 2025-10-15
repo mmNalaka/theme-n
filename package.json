@@ -2,7 +2,7 @@
   "name": "theme-n-dark",
   "displayName": "Theme N Dark",
   "description": "A set of beautiful and minimal dark themes for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "mmnalaka",
   "engines": {
     "vscode": "^1.105.0"
@@ -17,14 +17,18 @@
   "contributes": {
     "themes": [
       {
-        "label": "Theme N",
+        "label": "Theme N1 Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Theme N-color-theme.json"
+        "path": "./themes/N1 Dark-color-theme.json"
+      },
+      {
+        "label": "Theme N2 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/N2 Dark-color-theme.json"
       }
     ]
   },
   "keywords": [
-    "Light Theme",
     "Dark Theme",
     "Tomorrow",
     "Monokai",

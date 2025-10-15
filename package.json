@@ -25,6 +25,16 @@
         "label": "Theme N2 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/N2 Dark-color-theme.json"
+      },
+      {
+        "label": "Theme N3 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/N3 Dark-color-theme.json"
+      },
+      {
+        "label": "Theme N4 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/N4 Dark-color-theme.json"
       }
     ]
   },

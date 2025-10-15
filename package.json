@@ -2,7 +2,7 @@
   "name": "theme-n-dark",
   "displayName": "Theme N Dark",
   "description": "A set of beautiful and minimal dark themes for VSCode",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "mmnalaka",
   "engines": {
     "vscode": "^1.105.0"
